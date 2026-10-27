@@ -1,3 +1,15 @@
+---
+title: "AVÉRION - SIH26261"
+emoji: 🛡️
+colorFrom: indigo
+colorTo: cyan
+sdk: gradio
+sdk_version: "5.31.0"
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # AVÉRION - AI Application Validation & Compliance Platform
 
 [![SIH26261](https://img.shields.io/badge/SIH-2026-6366f1.svg)](https://sih.gov.in)
