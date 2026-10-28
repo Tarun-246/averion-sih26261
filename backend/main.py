@@ -42,7 +42,7 @@ app.add_middleware(
 )
 
 MAX_FILE_BYTES = 20 * 1024 * 1024
-ALLOWED_TYPES = {"image/jpeg", "image/png", "image/webp", "image/bmp", "image/tiff"}
+ALLOWED_TYPES = {"image/jpeg", "image/png", "image/webp", "image/bmp", "image/tiff", "application/octet-stream"}
 
 # Cross-Document Intelligence Store
 _cross_doc_store: List[Dict[str, Any]] = []
